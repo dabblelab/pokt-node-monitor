@@ -61,7 +61,7 @@ See how to enter parameters below
 
 ![Node Monitor Parameters](/images/parameters.png?raw=true "Parameter configuration")
 
-The confirmation email looks as in below image
+The confirmation email looks like in below image
 
 ![Set up confirmation email](/images/email_template.png?raw=true "Email template")
 
